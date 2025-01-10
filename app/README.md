@@ -9,3 +9,6 @@ _Last updated: 28 Feb 2023_
 
 ← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
 a simple qr code generator using api
+
+## Live Code
+https://simple-qr-code-generator.glitch.me
